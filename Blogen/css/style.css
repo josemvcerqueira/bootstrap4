@@ -1,0 +1,25 @@
+.green-numbers .page-link {
+  color: green;
+}
+
+.page-item.active .page-link {
+  border-color: #dee2e6;
+}
+
+.orange-numbers .page-link {
+  color: #ffc107;
+}
+
+.orange-numbers .page-item.active .page-link {
+  background-color: #ffc107;
+  border-color: #dee2e6;
+}
+
+.fixed-bottom {
+  margin-top: 5em;
+  position: relative;
+}
+
+.main-container {
+  height: 100vh;
+}
